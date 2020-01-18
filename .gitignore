@@ -1,0 +1,13 @@
+### Java template
+# Compiled class file
+*.class
+*.exe
+
+.DS_Store
+.idea/workspace.xml
+__pycache__/
+error-code/src/main/resources/static/
+output/
+*.exe
+*.class
+*.jar

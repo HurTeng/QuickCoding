@@ -1,0 +1,11 @@
+name|code|message_en|message_zh
+System error|10001|System error|系统错误
+Service unavailable|10002|Service unavailable|服务暂停
+Remote service error|10003|Remote service error|远程服务错误
+IP limit|10004|IP limit|IP限制不能请求该资源
+Permission denied|10005|Permission denied, need a high level appkey|该资源需要appkey拥有授权
+Appkey missing|10006|Source paramter (appkey) is missing|缺少source (appkey) 参数
+Unsupport mediatype|10007|Unsupport mediatype|不支持的MediaType
+Param error|10008|Param error, see doc for more info|参数错误，请参考API文档
+Too many pending tasks|10009|Too many pending tasks, system is busy|任务过多，系统繁忙
+Job expired|10010|Job expired|任务超时
